@@ -1,8 +1,0 @@
-:- module(day6, [solve_part1/2, solve_part2/2], [assertions,dynamic]).
-
-:- use_module(library(stream_utils), [get_line/2]). 
-:- use_module(library(streams), [open/3]).
-:- use_module('../../utils/parse_file.pl', [separate_row/5]).
-    
-:- dynamic(lant_fish/2).
-

@@ -1,8 +1,0 @@
-:- module(dyn, _, [assertions]).
-
-
-:- dynamic(N/2).
-
-
-p(X, Y) :-
-    N()

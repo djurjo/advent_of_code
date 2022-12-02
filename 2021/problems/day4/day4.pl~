@@ -1,6 +1,0 @@
-:- module(day3, [solve_part1/2, solve_part2/2], _).
-
-:- use_module(library(stream_utils), [get_line/2]). 
-%%%% Less time consumption
-:- use_module(library(streams), [open/3]).
-
