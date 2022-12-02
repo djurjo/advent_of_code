@@ -1,0 +1,11 @@
+:- module(day4, _, _).
+
+:- use_module(library(stream_utils), [get_line/2]). 
+:- use_module(library(streams), [open/3]).
+:- use_module('../../utils/parse_file.pl', [separate_row/5]).
+    
+:- export(_).
+
+%%%%% LET'S PLAY BINGO
+
+

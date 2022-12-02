@@ -1,0 +1,13 @@
+:- module(day2, [main_1/2, main_2/2], _).
+
+:- use_module(library(stream_utils), [get_line/2]). 
+%%%% Less time consumption
+:- use_module('../../utils/parse_file.pl', [separate_row/5]).
+
+
+:- use_module(library(llist), [transpose/2])
+
+
+
+
+
